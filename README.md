@@ -1,3 +1,4 @@
+![](https://github.com/Shreejan-35/ASCIIPY/blob/master/res/ASCIIPY.png)
 # ASCIIPY
 ### _IMAGE TO ASCII_
 
