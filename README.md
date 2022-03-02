@@ -53,7 +53,7 @@ The Installation is pretty easy.
 - Make a directory in your computer to store the files.
 - Go into the fdirectory and clone the git repository
 ```
-git clone 
+git clone https://github.com/Shreejan-35/ASCIIPY.git
 ```
 That's all 😃
 Then run the *asciipy.exe*
