@@ -33,7 +33,7 @@ The overall configuration of my project and the libraries which I have used :-
 
 *helpers.py* has all the necessary functions. The execution takes place in the *run.py* fie.
 This is how *run.py* looks - 
-!()[https://github.com/Shreejan-35/ASCIIPY/blob/master/res/runImg.png]
+![](https://github.com/Shreejan-35/ASCIIPY/blob/master/res/runImg.png)
 
 ## Installation 😁
 The Installation is pretty easy.
