@@ -11,6 +11,18 @@
 - Any shine, effects, etc, are maintained in the new ASCII image 🤩
 - The application can run on any **OS** - *windows, linux, apple, etc.* 🤯
 
+### Examples:-
+1. The original image of ironman vs thanos - 
+![](https://github.com/Shreejan-35/ASCIIPY/blob/master/images/ironman_vs_thanos.jpg)
+**After effect**-
+![](https://github.com/Shreejan-35/ASCIIPY/blob/master/images/newIronManvsThanos.jpg)
+
+2. Some 3D effects and originality is maintained.
+This is the original picture of joker - 
+![](https://github.com/Shreejan-35/ASCIIPY/blob/master/images/joker.jpg)
+**After effect** - 
+![](https://github.com/Shreejan-35/ASCIIPY/blob/master/images/newJoker-min.jpg)
+
 ## Motivation
 > My motive of building this applcation
 > is to help others to create wonderful 
