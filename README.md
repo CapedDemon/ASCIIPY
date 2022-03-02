@@ -55,3 +55,4 @@ python3 run.py
 ```
 
 ## LICENSE
+GNU Public License
